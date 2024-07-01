@@ -5,8 +5,8 @@ def main():
     ########################################
     """
     
-    
-    
+    i = 0
+    total = 0
     while i < 5:
        num = int(input('Enter your input: '))
        total += num
